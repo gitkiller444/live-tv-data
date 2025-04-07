@@ -102,30 +102,6 @@
     "language": "Marathi"
   },
   {
-    "title": "Ekattor TV",
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png",
-    "youtubeId": "zXubHKficK8",
-    "language": "Bengali"
-  },
-  {
-    "title": "SOMOY TV",
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/SOMOY_TV_Logo.svg/1200px-SOMOY_TV_Logo.svg.png",
-    "youtubeId": "t69zB0wIdB0",
-    "language": "Bengali"
-  },
-  {
-    "title": "Manorama News",
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Manorama_News.svg/1200px-Manorama_News.svg.png",
-    "youtubeId": "tgBTspqA5nY",
-    "language": "Malayalam"
-  },
-  {
-    "title": "DD Urdu",
-    "iconUrl": "https://static.wikia.nocookie.net/logopedia/images/2/2f/DD_Urdu_new.jpeg/revision/latest?cb=20191229180017",
-    "youtubeId": "fBK2oLi5PE0",
-    "language": "Urdu"
-  },
-  {
     "title": "ABP Asmita",
     "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ABP_Asmita_logo.svg/168px-ABP_Asmita_logo.svg.png",
     "youtubeId": "yOnPxN_2dsw",
@@ -148,5 +124,29 @@
     "iconUrl": "https://static.wikia.nocookie.net/logopedia/images/b/ba/News18_Gujarati1.svg/revision/latest/scale-to-width-down/1200?cb=20250215160304",
     "youtubeId": "oURmdbfbhgM",
     "language": "Gujarati"
+  },
+  {
+    "title": "Ekattor TV",
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png",
+    "youtubeId": "zXubHKficK8",
+    "language": "Bengali"
+  },
+  {
+    "title": "SOMOY TV",
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/SOMOY_TV_Logo.svg/1200px-SOMOY_TV_Logo.svg.png",
+    "youtubeId": "t69zB0wIdB0",
+    "language": "Bengali"
+  },
+  {
+    "title": "Manorama News",
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Manorama_News.svg/1200px-Manorama_News.svg.png",
+    "youtubeId": "tgBTspqA5nY",
+    "language": "Malayalam"
+  },
+  {
+    "title": "DD Urdu",
+    "iconUrl": "https://static.wikia.nocookie.net/logopedia/images/2/2f/DD_Urdu_new.jpeg/revision/latest?cb=20191229180017",
+    "youtubeId": "fBK2oLi5PE0",
+    "language": "Urdu"
   }
 ]
