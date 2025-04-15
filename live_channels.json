@@ -20,43 +20,61 @@
   {
     "title": "ABP News",
     "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/640px-ABP_News_logo.svg.png",
-    "youtubeId": "DM0KQdIHnXY",
+    "youtubeId": "Dp-oSyMvzD4",
     "language": "Hindi"
   },
   {
     "title": "News18 India",
     "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png",
-    "youtubeId": "k6PeM3AnciU",
+    "youtubeId": "jRrth0tq7F0",
     "language": "Hindi"
   },
   {
     "title": "India Today",
     "iconUrl": "https://play-lh.googleusercontent.com/XKVQpIEEGbjxsX5CFatbRv5b0FMMYJ9bYkhjFa0_XFaOG5iAu4Qz9aWFyK5yOe7R0n0=w240-h480-rw",
-    "youtubeId": "h7sWVJ6QB-4",
+    "youtubeId": "sYZtOFzM78M",
     "language": "Hindi"
   },
   {
     "title": "News 24",
     "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/News24_Logo.jpg/800px-News24_Logo.jpg",
-    "youtubeId": "k93kTgHk1dQ",
+    "youtubeId": "wRugKdhD2Bg",
     "language": "Hindi"
   },
   {
     "title": "NDTV",
     "iconUrl": "https://play-lh.googleusercontent.com/oMM2LtXhM8WWgMIVUz-oXWkaywRAnOJzCZBsYOpyuVg6yuWhKekeA-oXbzbTQKHgGuAa",
-    "youtubeId": "8TwrK6GBKIs",
+    "youtubeId": "twfhAiYutFw",
     "language": "Hindi"
   },
   {
     "title": "TIMES NOW Navbharat",
     "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Times-now-navbharat.png",
-    "youtubeId": "BQ8Aq7sehzE",
+    "youtubeId": "72ex_Qd72w",
     "language": "Hindi"
   },
   {
     "title": "Zee News",
     "iconUrl": "https://play-lh.googleusercontent.com/3ifpSvHElszjWG4tHGzFfox1Sj4QcLWM7ht0xUgtGEcMyDWVBMieGzldED2z81ocOD4u",
-    "youtubeId": "R2hjJe9N16M",
+    "youtubeId": "XrJSAfHnm3o",
+    "language": "Hindi"
+  },
+  {
+    "title": "India TV",
+    "iconUrl": "https://play-lh.googleusercontent.com/3ifpSvHElszjWG4tHGzFfox1Sj4QcLWM7ht0xUgtGEcMyDWVBMieGzldED2z81ocOD4u",
+    "youtubeId": "BALo1QGu_Bg",
+    "language": "Hindi"
+  },
+  {
+    "title": "Zee Business",
+    "iconUrl": "https://smartads.in/resources/assets/uploads/product_group/television/zee_business_india.webp",
+    "youtubeId": "OfG_rNNSKP4",
+    "language": "Hindi"
+  },
+  {
+    "title": "NDTV Profit",
+    "iconUrl": "https://www.ndtvprofit.com/icons/apple-touch-icon.png",
+    "youtubeId": "2bGMuhxGJes",
     "language": "Hindi"
   },
   {
@@ -74,7 +92,7 @@
   {
     "title": "DD Kisan",
     "iconUrl": "https://static.wikia.nocookie.net/logopedia/images/6/60/DD-Kishan_Logo.png/revision/latest/scale-to-width-down/1200?cb=20160805131037",
-    "youtubeId": "O80EhUpQihQ",
+    "youtubeId": "cjCBhAj-DyA",
     "language": "Hindi"
   },
   {
@@ -86,13 +104,25 @@
   {
     "title": "NBC News",
     "iconUrl": "https://m.media-amazon.com/images/I/31Wfr5His6L.png",
-    "youtubeId": "fpz_6G97v4o",
+    "youtubeId": "RDKOr1dm8Wc",
+    "language": "English"
+  },
+  {
+    "title": "LiveNOW from FOX",
+    "iconUrl": "https://yt3.googleusercontent.com/AqzY5ePezRAQ2136-TbM_88d43JfIovkzztge92WKQ4K_ISfJMFA9yuX0Nw87DLWms4W9r2c3Q=s900-c-k-c0x00ffffff-no-rj",
+    "youtubeId": "YDfiTGGPYCk",
+    "language": "English"
+  },
+  {
+    "title": "Sky News",
+    "iconUrl": "https://play-lh.googleusercontent.com/gEDpU3eCxmpTLZp9AWC-l_gXbAZUuM7D1yr2tgez9bBrFW-eJytPX58P90T42FqMnoRe",
+    "youtubeId": "YDvsBbKfLPA",
     "language": "English"
   },
   {
     "title": "TV9 Marathi",
     "iconUrl": "https://play-lh.googleusercontent.com/bV51CU9UdZ-9Jxs7d8LwC0EVARb3Ov9nW5UUjTyb--lCBspufPuSTgU_boDLswIp4AYd=w600-h300-pc0xffffff-pd",
-    "youtubeId": "hfwPLazLbd4",
+    "youtubeId": "TO578cVRmpM",
     "language": "Marathi"
   },
   {
@@ -104,25 +134,25 @@
   {
     "title": "ABP Asmita",
     "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ABP_Asmita_logo.svg/168px-ABP_Asmita_logo.svg.png",
-    "youtubeId": "yOnPxN_2dsw",
+    "youtubeId": "OF1PR4b-1Bk",
     "language": "Gujarati"
   },
   {
     "title": "TV9 Gujarati",
     "iconUrl": "https://play-lh.googleusercontent.com/EBHVYY1p9as55Rek__L5Gf_xDI64fw-jTKtB0QlRDsbnTiKnWQQbcphzB0Om-S1fV4Q=w480-h960",
-    "youtubeId": "KmYi4ducsHo",
+    "youtubeId": "-lzRnfB2CWA",
     "language": "Gujarati"
   },
   {
     "title": "Sandesh News",
     "iconUrl": "https://play-lh.googleusercontent.com/9ToG-L9pg7k1DjQdKHWMDJO-GKWeRfKMQR0Q3JvdCrG0_WnlZ_AjJ-F2CqP5aLsrPs4=w480-h960",
-    "youtubeId": "xdw3iZ0s9X8",
+    "youtubeId": "Ab7D_Q-ax2w",
     "language": "Gujarati"
   },
   {
     "title": "News18 Gujarati",
     "iconUrl": "https://static.wikia.nocookie.net/logopedia/images/b/ba/News18_Gujarati1.svg/revision/latest/scale-to-width-down/1200?cb=20250215160304",
-    "youtubeId": "oURmdbfbhgM",
+    "youtubeId": "gYbS7SxYwnQ",
     "language": "Gujarati"
   },
   {
@@ -134,7 +164,7 @@
   {
     "title": "SOMOY TV",
     "iconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/SOMOY_TV_Logo.svg/1200px-SOMOY_TV_Logo.svg.png",
-    "youtubeId": "t69zB0wIdB0",
+    "youtubeId": "66OHN8Tz8-o",
     "language": "Bengali"
   },
   {
@@ -146,7 +176,7 @@
   {
     "title": "DD Urdu",
     "iconUrl": "https://static.wikia.nocookie.net/logopedia/images/2/2f/DD_Urdu_new.jpeg/revision/latest?cb=20191229180017",
-    "youtubeId": "fBK2oLi5PE0",
+    "youtubeId": "LAso1QgJMBw",
     "language": "Urdu"
   }
 ]
